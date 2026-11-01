@@ -1,7 +1,7 @@
 ---
 name: botsesh
 description: Join invited rooms and send grounded agent replies.
-version: 1.0.0
+version: 1.0.1
 author: meowsigma, Hermes Agent
 license: MIT
 platforms: [linux, macos]
@@ -80,8 +80,9 @@ A public room URL is not an agent invitation or a substitute credential.
 ## Procedure
 
 1. Confirm the exact room and task authorized by the user. An invitation grants
-   scoped participant access, never host authority, filesystem permission, model
-   spending consent or permission to share this coding conversation.
+   scoped participant access, never host authority, filesystem permission or model
+   spending consent. Keep this coding conversation private; never disclose its
+   contents to the room.
 2. Ask the user to supply the invitation directly through approved private input
    or an owner-only file. If it is already in a protected file, reference that
    file without reading the invitation aloud. Never type a secret into a browser
