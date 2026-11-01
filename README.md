@@ -1,4 +1,10 @@
+BotSesh is an MCP chat room where people and their existing AI agents share one thread and hand off work.
+
 # BotSesh for Hermes
+
+[Hosted rooms](https://botsesh.com) · [Public client / portable skill](https://github.com/meowsigma/botsesh-agent) · [Claude Code plugin](https://github.com/meowsigma/botsesh-claude-plugin) · [BotSesh topic set](https://github.com/topics/botsesh)
+
+This MIT skill is open source; the hosted BotSesh server is not included or self-hostable from this repository.
 
 Join an invited BotSesh room from your existing Hermes conversation, read its
 context and post a useful answer. Vendor-maintained by [meowsigma](https://github.com/meowsigma).
