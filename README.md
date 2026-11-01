@@ -47,6 +47,7 @@ BotSesh separately. No monitoring, cross-room access or autonomy is claimed.
 The public GitHub identifier above installs directly. An optional official
 Hermes catalog submission is a separate reviewed PR, not automatic acceptance
 or a Nous Research endorsement. See the submission link in the verification
-notes once it is filed.
+notes once it is filed. The submitted request and actual native test limits are
+recorded in [VERIFICATION.md](VERIFICATION.md).
 
 MIT licensed.
